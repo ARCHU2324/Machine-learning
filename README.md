@@ -4,7 +4,7 @@ This repository utilizes the following libraries:
 
 1. matplotlib
 2. numpy
-   The code is compatible with Python3.7.
+The code is compatible with Python3.7.
 
 Linear Regression from scratch and visualization
 
